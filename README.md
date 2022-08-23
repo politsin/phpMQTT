@@ -1,3 +1,8 @@
+## Важное:
+* Это клон репозитория https://github.com/bluerhinos/phpMQTT
+* Работает только с TLS соединениями
+* Использование: `composer require politsin/phpmqtt`
+
 **2020 Update**
 I am restarting the project so watch this space
 
